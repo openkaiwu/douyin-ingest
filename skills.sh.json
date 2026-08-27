@@ -1,0 +1,14 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Douyin Workflow",
+      "description": "Collect Douyin/抖音 viral videos, transcribe speech, rewrite short-video scripts, and deliver Word reports.",
+      "skills": [
+        "douyin-content-ingest",
+        "douyin-script-rewriter"
+      ]
+    }
+  ]
+}
